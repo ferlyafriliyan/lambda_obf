@@ -2,7 +2,7 @@
 #
 
 <p align="center">
-<a href="#"><img title="Host" src="https://raw.githubusercontent.com/Livian-xyz/release-download/master/images/banner/trackip.png"></a>
+<a href="#"><img title="Host" src="https://github.com/Livian-xyz/Get-Token/blob/master/assets/trackip.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-Livian--xyz-red.svg?style=for-the-badge&logo=github"></a>
