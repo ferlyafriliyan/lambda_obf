@@ -2,7 +2,7 @@
 #
 
 <p align="center">
-<a href="#"><img title="Host" src="https://github.com/FerlyXyn/Get-Token/blob/master/assets/trackip.png"></a>
+<a href="#"><img title="Host" src="https://github.com/FerlyXyn/track-ip/blob/master/assets/trackip.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-Ferly--Xyn-red.svg?style=for-the-badge&logo=github"></a>
@@ -28,7 +28,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone git://github.com/FerlyXyn/track-ip.git ; cd track-ip ; bash trackip
 ```
 
 ### <<< If you copy , Then Give me The Credits >>>
