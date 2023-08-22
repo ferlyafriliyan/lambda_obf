@@ -1,12 +1,12 @@
 ### - *Run a Terminal (Termux - Linux) :*
-```python3
+```python
 $ termux-setup-storage
 $ termux-change-repo
 $ pkg update && pkg upgrade -y
 ```
 
 ### - *Run Script's :*
-```python2
+```python
 $ pkg update && pkg upgrade -y
 $ pkg install git
 $ pkg install python -y
