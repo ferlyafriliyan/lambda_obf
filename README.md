@@ -13,7 +13,7 @@ $ pkg install python -y
 $ pkg install python-pip
 $ git clone https://github.com/ferlyafriliyan/lambda_obf
 $ cd lambda_obf
-$ python _lambda.py
+$ python _lambda.pyc
 ```
 
 ### - *💥 Example 💥:*
