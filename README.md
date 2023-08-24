@@ -28,5 +28,10 @@ print("Hello World")
 
 # Lu_Kontol = "Follow Github Gw"
 
-
 ```
+
+### *Prosses Encryptions - Obfuscated File :*
+![img](https://raw.githubusercontent.com/ferlyafriliyan/lambda_obf/master/assets/Screenshot_20230825_040100_Termux.jpg)
+
+### *Gambaran Hasil Encryptions - Obfuscated File :*
+![img](https://raw.githubusercontent.com/ferlyafriliyan/lambda_obf/master/assets/Screenshot_20230825_040115_Termux.jpg)
