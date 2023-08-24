@@ -1,5 +1,6 @@
 ### *File lambda_obf adalah Pembaruan dari File Encryptions - Obfuscated :*
-# *https://github.com/SubGlitch1/OSRipper/blob/ecb2567a12e3125d40d9d13fb2ae00d7ebb1d718/obfuscator.py*
+
+<a href="https://github.com/SubGlitch1/OSRipper/blob/ecb2567a12e3125d40d9d13fb2ae00d7ebb1d718/obfuscator.py" target="_blank">Berikut</a>
 
 ### - *Run a Terminal (Termux - Linux) :*
 ```python
